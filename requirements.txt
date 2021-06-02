@@ -35,7 +35,7 @@ six==1.13.0
 sqlparse==0.3.1
 static3==0.7.0
 traitlets==4.3.3
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.18
 wcwidth==0.1.7
 psycopg2>=2.6.1
